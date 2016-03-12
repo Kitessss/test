@@ -1,0 +1,36 @@
+body {
+	font-size: small;
+	font-family: verdana, helvetica, arial, sans-serif;
+	line-height: 1.6em;
+}
+h1, h2 {
+	color: #007e7e;
+}
+h1 {
+	font-size: 150%;
+}
+h2 {
+	font-size: 130%;
+}
+#guarantee {
+    border-color:     white;    /*边框颜色*/
+    border-width:     1px;		/*边框厚度*/	
+    border-style:     dashed;	/*样式。实线*/
+    background-color: #a7cece;	/*背景颜色*/
+    padding:          25px;		/*内边距上下左右为25像素*/
+	padding-left:     80px;     /*左边内边距80像素*/
+    margin:           30px;		/*外边距上下左右为30px*/
+	margin-right:     250px;     
+	line-height:      1.9em;	/*行高*/
+	font-family: Georgia, "Times New Roman", times, serif;
+	color: #444444;	
+	font-style:       italic;   /*斜体*/
+	background-image: url(images/background.gif);
+	background-repeat: no-repeat;   /*杜绝重复*/
+	background-position: top left;  /*字面意思 顶 左←left*/
+}
+#elixirs {
+	border-style:   solid;
+	border-width:   thin;
+	border-color: #007e7e;
+}
